@@ -57,7 +57,6 @@ main {
 
   display: grid;
   gap: 24px;
-
 }
 
 section {
@@ -72,18 +71,15 @@ section div{
   padding: 32px;
   padding-top: 24px;
   border-radius: 8px;
-
 }
 
 section h2{
   letter-spacing: -0.47px;
-
 }
 
 section p{
   letter-spacing: -0.18px;
   color: #A1A1AA; 
-
 }
 
 section ul {
@@ -110,7 +106,6 @@ section ul li:hover{
   width: 70px;
   border-radius: 50%;
   border: 1px solid #443E54;
-
 }
 
 /* animation */
